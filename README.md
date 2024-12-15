@@ -1,1 +1,1 @@
-# REPO-BirBIRDgame
+# Cardano Bootcamp - BirdBird
