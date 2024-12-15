@@ -25,4 +25,4 @@ Contributions are welcome! Fork the repository, create a branch for your feature
 
 ## License
 
-Licensed under the **MIT License**. Contact [your_email@example.com](mailto:your_email@example.com) for questions.
+Licensed under the **MIT License**. Contact [kimlienopetr@gmail.com](mailto:kimlienopetr@gmail.com) for questions.
