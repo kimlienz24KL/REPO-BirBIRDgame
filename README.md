@@ -10,7 +10,7 @@ The game includes fun mechanics inspired by Flappy Bird, integration with the Ca
 
 ## How to Set Up
 
-1. Clone the repository: `git clone https://github.com/yourusername/birdbird.git && cd birdbird`.
+1. Clone the repository: `git clone https://github.com/yourusername/birdbird.git`.
 2. Install dependencies: `npm install`.
 3. Create a `.env` file with Cardano wallet and API key details.
 4. Start the application: `npm run dev`.
